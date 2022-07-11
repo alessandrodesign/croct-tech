@@ -1,25 +1,139 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="6380b84c-def1-423d-a61c-53994dc6049b" name="Changes" comment="" />
+    <list default="true" id="6380b84c-def1-423d-a61c-53994dc6049b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.docker/persistent/#ib_16384_0.dblwr" beforeDir="false" afterPath="$PROJECT_DIR$/.docker/persistent/#ib_16384_0.dblwr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docker/persistent/#innodb_temp/temp_1.ibt" beforeDir="false" afterPath="$PROJECT_DIR$/.docker/persistent/#innodb_temp/temp_1.ibt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docker/persistent/#innodb_temp/temp_10.ibt" beforeDir="false" afterPath="$PROJECT_DIR$/.docker/persistent/#innodb_temp/temp_10.ibt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docker/persistent/#innodb_temp/temp_2.ibt" beforeDir="false" afterPath="$PROJECT_DIR$/.docker/persistent/#innodb_temp/temp_2.ibt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docker/persistent/#innodb_temp/temp_3.ibt" beforeDir="false" afterPath="$PROJECT_DIR$/.docker/persistent/#innodb_temp/temp_3.ibt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docker/persistent/#innodb_temp/temp_4.ibt" beforeDir="false" afterPath="$PROJECT_DIR$/.docker/persistent/#innodb_temp/temp_4.ibt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docker/persistent/#innodb_temp/temp_5.ibt" beforeDir="false" afterPath="$PROJECT_DIR$/.docker/persistent/#innodb_temp/temp_5.ibt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docker/persistent/#innodb_temp/temp_6.ibt" beforeDir="false" afterPath="$PROJECT_DIR$/.docker/persistent/#innodb_temp/temp_6.ibt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docker/persistent/#innodb_temp/temp_7.ibt" beforeDir="false" afterPath="$PROJECT_DIR$/.docker/persistent/#innodb_temp/temp_7.ibt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docker/persistent/#innodb_temp/temp_8.ibt" beforeDir="false" afterPath="$PROJECT_DIR$/.docker/persistent/#innodb_temp/temp_8.ibt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docker/persistent/#innodb_temp/temp_9.ibt" beforeDir="false" afterPath="$PROJECT_DIR$/.docker/persistent/#innodb_temp/temp_9.ibt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docker/persistent/binlog.000002" beforeDir="false" afterPath="$PROJECT_DIR$/.docker/persistent/binlog.000002" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docker/persistent/binlog.000003" beforeDir="false" afterPath="$PROJECT_DIR$/.docker/persistent/binlog.000003" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docker/persistent/binlog.000004" beforeDir="false" afterPath="$PROJECT_DIR$/.docker/persistent/binlog.000004" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docker/persistent/binlog.index" beforeDir="false" afterPath="$PROJECT_DIR$/.docker/persistent/binlog.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docker/persistent/ib_buffer_pool" beforeDir="false" afterPath="$PROJECT_DIR$/.docker/persistent/ib_buffer_pool" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docker/persistent/ib_logfile0" beforeDir="false" afterPath="$PROJECT_DIR$/.docker/persistent/ib_logfile0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docker/persistent/ibdata1" beforeDir="false" afterPath="$PROJECT_DIR$/.docker/persistent/ibdata1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docker/persistent/ibtmp1" beforeDir="false" afterPath="$PROJECT_DIR$/.docker/persistent/ibtmp1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docker/persistent/mysql.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/.docker/persistent/mysql.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docker/persistent/undo_001" beforeDir="false" afterPath="$PROJECT_DIR$/.docker/persistent/undo_001" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.docker/persistent/undo_002" beforeDir="false" afterPath="$PROJECT_DIR$/.docker/persistent/undo_002" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Consumer.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Consumer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/app/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/FindIp.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/FindIp.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/Produtor.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/Produtor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/vendor/composer/autoload_classmap.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/vendor/composer/autoload_files.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/vendor/composer/autoload_files.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/vendor/composer/autoload_static.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/vendor/composer/installed.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/vendor/composer/installed.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/vendor/composer/installed.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/vendor/composer/installed.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/vendor/composer/tmp-791eb64da68f32d53be952372190a33f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/vendor/composer/tmp-b5dd60117940b72f0ca81a72ded9136c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/croct-tech.iml" beforeDir="false" afterPath="$PROJECT_DIR$/croct-tech.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yaml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings">
-    <execution />
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <phar pharPath="$PROJECT_DIR$/composer.phar" interpreterId="612e506a-f411-4ab1-a028-84952203e769" />
+    </execution>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/app/vendor/amphp/amp" />
+      <path value="$PROJECT_DIR$/app/vendor/composer" />
+      <path value="$PROJECT_DIR$/app/vendor/kozlice/monolog-kafka" />
+      <path value="$PROJECT_DIR$/app/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/app/vendor/nmred/kafka-php" />
+      <path value="$PROJECT_DIR$/app/vendor/psr/log" />
+    </include_path>
+  </component>
   <component name="ProjectId" id="2BfwhGZySbKCVceXBlYqnk7UQAI" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "WebServerToolWindowFactoryState": "false"
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\aless\Desktop\NORTE.dev.br\workspace\croct-tech\croct-tech\app" />
+      <recent name="C:\Users\aless\Desktop\NORTE.dev.br\workspace\croct-tech\croct-tech\php" />
+      <recent name="C:\Users\aless\Desktop\NORTE.dev.br\workspace\croct-tech\croct-tech\php\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Docker.docker-compose.yaml: Compose Deployment">
+    <configuration name="docker-compose.yaml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="envFilePath" value="" />
+          <option name="sourceFilePath" value="docker-compose.yaml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yaml.php: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="php" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="docker-compose.yaml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.docker-compose.yaml: Compose Deployment" />
+        <item itemvalue="Docker.docker-compose.yaml.php: Compose Deployment" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -28,7 +142,28 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657310566219</updated>
+      <workItem from="1657310568485" duration="6156000" />
+      <workItem from="1657316810041" duration="3377000" />
+      <workItem from="1657473291953" duration="1221000" />
+      <workItem from="1657475008880" duration="19363000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

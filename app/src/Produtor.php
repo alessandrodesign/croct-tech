@@ -5,11 +5,11 @@ namespace NorteDev;
 use Kafka\Producer;
 use Kafka\ProducerConfig;
 
-class Messages
+class Produtor
 {
     private ProducerConfig $config;
 
-    public function __construct(bool $isProducer = true)
+    public function __construct(bool $isProducer = true, bool $isAsyn = false)
     {
         if ($isProducer) {
             $this->config = ProducerConfig::getInstance();
@@ -17,21 +17,21 @@ class Messages
             $this->config->setMetadataBrokerList(BOOTSTRAP_SERVER);
             $this->config->setBrokerVersion(BROKER_VERSION);
             $this->config->setRequiredAck(REQUIRED_ACK_QUANTITY);
-            $this->config->setIsAsyn(false);
+            $this->config->setIsAsyn($isAsyn);
             $this->config->setProduceInterval(PRODUCE_INTERVAL);
         }
     }
 
-    public function producer(array $message = [], string $key = null)
+    public function producer(string $key = null, ?string $topic = null, array $message = [])
     {
         if (is_null($key)) {
             $key = uniqid(time(), true);
         }
         $producer = new Producer(
-            function () use ($key, $message) {
+            function () use ($key, $topic, $message) {
                 return [
                     [
-                        'topic' => TOPICS[0],
+                        'topic' => $topic ?? TOPICS[0],
                         'value' => json_encode($message),
                         'key' => $key,
                     ],

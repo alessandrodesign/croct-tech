@@ -6,7 +6,15 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
+    'Symfony\\Polyfill\\Php81\\' => array($vendorDir . '/symfony/polyfill-php81'),
+    'Symfony\\Polyfill\\Php80\\' => array($vendorDir . '/symfony/polyfill-php80'),
+    'Symfony\\Polyfill\\Ctype\\' => array($vendorDir . '/symfony/polyfill-ctype'),
+    'Ramsey\\Uuid\\' => array($vendorDir . '/ramsey/uuid/src'),
+    'Ramsey\\Collection\\' => array($vendorDir . '/ramsey/collection/src'),
     'Psr\\Log\\' => array($vendorDir . '/psr/log/Psr/Log'),
-    'NORTEdev\\' => array($baseDir . '/src'),
+    'NorteDev\\' => array($baseDir . '/src'),
+    'Monolog\\' => array($vendorDir . '/monolog/monolog/src/Monolog'),
+    'Kozlice\\Monolog\\' => array($vendorDir . '/kozlice/monolog-kafka/src/Monolog'),
+    'Brick\\Math\\' => array($vendorDir . '/brick/math/src'),
     'Amp\\' => array($vendorDir . '/amphp/amp/lib'),
 );

@@ -16,19 +16,25 @@
   },
   "autoload": {
     "psr-4": {
-      "NORTEdev\\": "application"
+      "NorteDev\\": "src"
     },
     "files": [
-      "core/Config.php"
+      "config.php"
     ]
   },
   "require": {
     "php": "^7.4",
-    "ext-gd": "*",
     "ext-dom": "*",
     "ext-pdo": "*",
     "ext-json": "*",
     "ext-mbstring": "*",
-    "nmred/kafka-php": "v0.2.0.8"
+    "nmred/kafka-php": "v0.2.0.8",
+    "kozlice/monolog-kafka": "^2.0",
+    "ramsey/uuid": "^4.2",
+    "psr/log": "^1.0.2",
+    "monolog/monolog": "^2.0"
+  },
+  "suggest": {
+    "ext-krb5": "To be able to ues the GSSAPI SASL mechanism"
   }
 }
