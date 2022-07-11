@@ -12,6 +12,16 @@
       <excludeFolder url="file://$MODULE_DIR$/app/vendor/kozlice/monolog-kafka" />
       <excludeFolder url="file://$MODULE_DIR$/app/vendor/ramsey/collection/bin" />
       <excludeFolder url="file://$MODULE_DIR$/app/vendor/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/app/vendor/doctrine" />
+      <excludeFolder url="file://$MODULE_DIR$/app/vendor/myclabs" />
+      <excludeFolder url="file://$MODULE_DIR$/app/vendor/nikic" />
+      <excludeFolder url="file://$MODULE_DIR$/app/vendor/phar-io" />
+      <excludeFolder url="file://$MODULE_DIR$/app/vendor/phpdocumentor" />
+      <excludeFolder url="file://$MODULE_DIR$/app/vendor/phpspec" />
+      <excludeFolder url="file://$MODULE_DIR$/app/vendor/phpunit" />
+      <excludeFolder url="file://$MODULE_DIR$/app/vendor/sebastian" />
+      <excludeFolder url="file://$MODULE_DIR$/app/vendor/theseer" />
+      <excludeFolder url="file://$MODULE_DIR$/app/vendor/webmozart" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
   </component>

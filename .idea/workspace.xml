@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6380b84c-def1-423d-a61c-53994dc6049b" name="Changes" comment="update git ignore">
-      <change afterPath="$PROJECT_DIR$/app/tests/FindIpTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/tests/ProdutorTest.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/app/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/vendor/composer/autoload_classmap.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/vendor/composer/autoload_classmap.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/vendor/composer/autoload_files.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/vendor/composer/autoload_files.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/vendor/composer/autoload_psr4.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/vendor/composer/autoload_static.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/vendor/composer/installed.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/vendor/composer/installed.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/vendor/composer/installed.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/vendor/composer/installed.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/croct-tech.iml" beforeDir="false" afterPath="$PROJECT_DIR$/croct-tech.iml" afterDir="false" />
-    </list>
+    <list default="true" id="6380b84c-def1-423d-a61c-53994dc6049b" name="Changes" comment="update git ignore" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -118,7 +105,7 @@
       <workItem from="1657310568485" duration="6156000" />
       <workItem from="1657316810041" duration="3377000" />
       <workItem from="1657473291953" duration="1221000" />
-      <workItem from="1657475008880" duration="20870000" />
+      <workItem from="1657475008880" duration="21919000" />
     </task>
     <task id="LOCAL-00001" summary="Files docker">
       <created>1657543164980</created>
@@ -134,7 +121,21 @@
       <option name="project" value="LOCAL" />
       <updated>1657543427122</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="PHPunit tests">
+      <created>1657545634914</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1657545634914</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update git ignore">
+      <created>1657545654553</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1657545654553</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,6 +155,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Files docker" />
+    <MESSAGE value="PHPunit tests" />
     <MESSAGE value="update git ignore" />
     <option name="LAST_COMMIT_MESSAGE" value="update git ignore" />
   </component>
