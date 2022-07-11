@@ -1,3 +1,5 @@
 .idea
 app/vendor
 api-key-GBMDNQF7C74RJPBO.txt
+*.pem
+*.sdi
