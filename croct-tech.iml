@@ -10,6 +10,8 @@
       <excludeFolder url="file://$MODULE_DIR$/app/vendor/amphp/amp" />
       <excludeFolder url="file://$MODULE_DIR$/app/vendor/monolog/monolog" />
       <excludeFolder url="file://$MODULE_DIR$/app/vendor/kozlice/monolog-kafka" />
+      <excludeFolder url="file://$MODULE_DIR$/app/vendor/ramsey/collection/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/app/vendor/bin" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
   </component>

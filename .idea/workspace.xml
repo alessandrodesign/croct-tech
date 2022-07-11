@@ -4,51 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6380b84c-def1-423d-a61c-53994dc6049b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.docker/persistent/#ib_16384_0.dblwr" beforeDir="false" afterPath="$PROJECT_DIR$/.docker/persistent/#ib_16384_0.dblwr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.docker/persistent/#innodb_temp/temp_1.ibt" beforeDir="false" afterPath="$PROJECT_DIR$/.docker/persistent/#innodb_temp/temp_1.ibt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.docker/persistent/#innodb_temp/temp_10.ibt" beforeDir="false" afterPath="$PROJECT_DIR$/.docker/persistent/#innodb_temp/temp_10.ibt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.docker/persistent/#innodb_temp/temp_2.ibt" beforeDir="false" afterPath="$PROJECT_DIR$/.docker/persistent/#innodb_temp/temp_2.ibt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.docker/persistent/#innodb_temp/temp_3.ibt" beforeDir="false" afterPath="$PROJECT_DIR$/.docker/persistent/#innodb_temp/temp_3.ibt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.docker/persistent/#innodb_temp/temp_4.ibt" beforeDir="false" afterPath="$PROJECT_DIR$/.docker/persistent/#innodb_temp/temp_4.ibt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.docker/persistent/#innodb_temp/temp_5.ibt" beforeDir="false" afterPath="$PROJECT_DIR$/.docker/persistent/#innodb_temp/temp_5.ibt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.docker/persistent/#innodb_temp/temp_6.ibt" beforeDir="false" afterPath="$PROJECT_DIR$/.docker/persistent/#innodb_temp/temp_6.ibt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.docker/persistent/#innodb_temp/temp_7.ibt" beforeDir="false" afterPath="$PROJECT_DIR$/.docker/persistent/#innodb_temp/temp_7.ibt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.docker/persistent/#innodb_temp/temp_8.ibt" beforeDir="false" afterPath="$PROJECT_DIR$/.docker/persistent/#innodb_temp/temp_8.ibt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.docker/persistent/#innodb_temp/temp_9.ibt" beforeDir="false" afterPath="$PROJECT_DIR$/.docker/persistent/#innodb_temp/temp_9.ibt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.docker/persistent/binlog.000002" beforeDir="false" afterPath="$PROJECT_DIR$/.docker/persistent/binlog.000002" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.docker/persistent/binlog.000003" beforeDir="false" afterPath="$PROJECT_DIR$/.docker/persistent/binlog.000003" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.docker/persistent/binlog.000004" beforeDir="false" afterPath="$PROJECT_DIR$/.docker/persistent/binlog.000004" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.docker/persistent/binlog.index" beforeDir="false" afterPath="$PROJECT_DIR$/.docker/persistent/binlog.index" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.docker/persistent/ib_buffer_pool" beforeDir="false" afterPath="$PROJECT_DIR$/.docker/persistent/ib_buffer_pool" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.docker/persistent/ib_logfile0" beforeDir="false" afterPath="$PROJECT_DIR$/.docker/persistent/ib_logfile0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.docker/persistent/ibdata1" beforeDir="false" afterPath="$PROJECT_DIR$/.docker/persistent/ibdata1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.docker/persistent/ibtmp1" beforeDir="false" afterPath="$PROJECT_DIR$/.docker/persistent/ibtmp1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.docker/persistent/mysql.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/.docker/persistent/mysql.ibd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.docker/persistent/undo_001" beforeDir="false" afterPath="$PROJECT_DIR$/.docker/persistent/undo_001" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.docker/persistent/undo_002" beforeDir="false" afterPath="$PROJECT_DIR$/.docker/persistent/undo_002" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+    <list default="true" id="6380b84c-def1-423d-a61c-53994dc6049b" name="Changes" comment="update git ignore">
+      <change afterPath="$PROJECT_DIR$/app/tests/FindIpTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/tests/ProdutorTest.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Consumer.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Consumer.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/composer.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/app/composer.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/config.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/FindIp.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/FindIp.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/Produtor.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/Produtor.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/vendor/composer/autoload_classmap.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/vendor/composer/autoload_classmap.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/vendor/composer/autoload_files.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/vendor/composer/autoload_files.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/vendor/composer/autoload_psr4.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/vendor/composer/autoload_psr4.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/vendor/composer/autoload_static.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/vendor/composer/installed.json" beforeDir="false" afterPath="$PROJECT_DIR$/app/vendor/composer/installed.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/vendor/composer/installed.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/vendor/composer/installed.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/vendor/composer/tmp-791eb64da68f32d53be952372190a33f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/vendor/composer/tmp-b5dd60117940b72f0ca81a72ded9136c" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/croct-tech.iml" beforeDir="false" afterPath="$PROJECT_DIR$/croct-tech.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docker-compose.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +72,11 @@
       <recent name="C:\Users\aless\Desktop\NORTE.dev.br\workspace\croct-tech\croct-tech\php\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Docker.docker-compose.yaml: Compose Deployment">
+  <component name="RunManager" selected="PHPUnit.FindIpTest">
+    <configuration name="FindIpTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="FindIpTest" file="$PROJECT_DIR$/app/tests/FindIpTest.php" scope="Class" />
+      <method v="2" />
+    </configuration>
     <configuration name="docker-compose.yaml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
       <deployment type="docker-compose.yml">
         <settings>
@@ -129,6 +101,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="PHPUnit.FindIpTest" />
         <item itemvalue="Docker.docker-compose.yaml: Compose Deployment" />
         <item itemvalue="Docker.docker-compose.yaml.php: Compose Deployment" />
       </list>
@@ -145,8 +118,23 @@
       <workItem from="1657310568485" duration="6156000" />
       <workItem from="1657316810041" duration="3377000" />
       <workItem from="1657473291953" duration="1221000" />
-      <workItem from="1657475008880" duration="19363000" />
+      <workItem from="1657475008880" duration="20870000" />
     </task>
+    <task id="LOCAL-00001" summary="Files docker">
+      <created>1657543164980</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1657543164980</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update git ignore">
+      <created>1657543427122</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1657543427122</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,5 +153,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Files docker" />
+    <MESSAGE value="update git ignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="update git ignore" />
   </component>
 </project>
