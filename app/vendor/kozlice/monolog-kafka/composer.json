@@ -1,0 +1,31 @@
+{
+    "name": "kozlice/monolog-kafka",
+    "description": "Apache Kafka handler for Monolog",
+    "keywords": ["log", "logging", "psr-3", "kafka", "apache kafka"],
+    "homepage": "https://github.com/kozlice/monolog-kafka",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Valentin Nazarov",
+            "email": "i.kozlice@protonmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.4 || ^8.0",
+        "ext-rdkafka": ">=4.0",
+        "monolog/monolog": "^2.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.0"
+    },
+    "autoload": {
+        "psr-4": {"Kozlice\\Monolog\\": "src/Monolog"}
+    },
+    "autoload-dev": {
+        "psr-4": {"Kozlice\\Monolog\\": "tests/Monolog"}
+    },
+    "scripts": {
+        "test": "phpunit"
+    }
+}

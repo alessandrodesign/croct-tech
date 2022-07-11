@@ -1,0 +1,40 @@
+language: php
+
+sudo: required
+
+before_install:
+  - sudo ./travis-install-librdkafka.sh v1.7.0 $HOME
+
+cache:
+  directories:
+    - $HOME/.composer/cache
+    - $HOME/librdkafka
+
+php:
+  - 7.4
+  - 8.0
+
+env:
+  - RDKAFKA_VERSION=4.0.2
+  - RDKAFKA_VERSION=4.1.2
+  - RDKAFKA_VERSION=5.0.0
+
+matrix:
+  exclude:
+    - php: 7.4
+      env: RDKAFKA_VERSION=4.0.2
+    - php: 7.4
+      env: RDKAFKA_VERSION=4.1.2
+    - php: 7.4
+      env: RDKAFKA_VERSION=5.0.0
+
+    - php: 8.0
+      env: RDKAFKA_VERSION=5.0.0
+  fast_finish: true
+
+before_script:
+  - pecl install rdkafka-$RDKAFKA_VERSION
+  - composer update --prefer-dist --prefer-lowest --prefer-stable
+  - composer install --prefer-dist
+
+script: composer test
